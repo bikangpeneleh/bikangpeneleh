@@ -1,0 +1,10 @@
+<div id="article-img">
+	<center>
+	<figure>
+		<a href="{{ site.baseurl }}{{ include.url }}" target="_blank">
+			<img style="cursor: pointer; width: 400px; height: 300px;" src="{{ site.baseurl }}{{ include.url }}" alt="{{ include.description }}" {% if include.width %} width="{{ include.width }}"{% endif %} />
+		</a>
+		{%if include.description %}<figcaption>{{ include.description }}</figcaption>{% endif %}
+	</figure>
+	</center>
+</div>
