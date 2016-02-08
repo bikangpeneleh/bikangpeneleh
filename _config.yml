@@ -46,6 +46,9 @@ menu:
   - title:        Contact Us
     url:          /contactus
 
+  - title:        Menu Kue
+    url:          /daftar-kue
+
 copyright:
   author:         Peneleh
   url:            http://www.bikangpeneleh.com
