@@ -7,7 +7,7 @@ permalink:	/blog/:title
 title:            Bikang Peneleh
 tagline:          'blog'
 description:      'The Tasteful Of Bikang Peneleh from Surabaya.'
-url:              http://bikangpeneleh.github.io
+url:              http://www.bikangpeneleh.com
 baseurl:          
 commentsystem:    google
 disqus:           example
@@ -33,7 +33,7 @@ social:
     desc:         Add me on google+
 
   - icon:         feed
-    url:          http://bikangpeneleh.github.io/atom.xml
+    url:          http://www.bikangpeneleh.com/atom.xml
     desc:         Subscribe to my feed
 
 menu:
@@ -45,7 +45,7 @@ menu:
 
 copyright:
   author:         Peneleh
-  url:            http://bikangpeneleh.github.io
+  url:            http://www.bikangpeneleh.com
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 
