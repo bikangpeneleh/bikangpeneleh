@@ -10,18 +10,7 @@ title: Home
 	</a>
 </header>
 <div id="middle">
-	<div id="contact-us" style="float:left; margin:0; width:33%;">
-		<strong>Jakarta</strong>
-		<strong>(Pesanan bisa diantar)</strong>
-		<br/>Pusat Grosir Senen Jaya Blok 4 Lantai Dasar A8 No. 10
-		<br/>Telp: (021) 2993 9428
-
-		<br/>Proyek Senen Blok III. Lantai Dasar Los AKS No 05/06/07
-		<br/>Telp: (021) 421 4950, (021) 421 0374
-		<br/>HP: 0815 878 0829, 0812 85818833, 0818 07078628, 0812 12126828 (Swan)
-		<br/>
-	</div>
-	<div id="post-list" style="float:left; margin:0; width:67%;">
+	<div id="post-list">
 		{% for post in paginator.posts %}
 			<div>
 				<span class="post-date">{{ post.date | date_to_long_string }}</span>
