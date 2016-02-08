@@ -1,7 +1,7 @@
 # Dependencies
 markdown:	kramdown
 # Permalinks
-permalink:	/blog/:title
+permalink:	/:title
 
 # Setup
 title:            Bikang Peneleh
@@ -40,14 +40,17 @@ menu:
   - title:        Home
     url:          /
 
-  - title:        About
-    url:          /about
+  - title:        About Us
+    url:          /aboutus
+
+  - title:        Contact Us
+    url:          /contactus
 
 copyright:
   author:         Peneleh
   url:            http://www.bikangpeneleh.com
-  type_title:     Some rights reserved
-  type_url:       http://creativecommons.org/licenses/by-nc/2.5
+  type_title:     All Rights Reserved
+  type_url:       
 
 parallax:         false
 
