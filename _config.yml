@@ -5,7 +5,7 @@ permalink:	/:title
 
 # Setup
 title:            Bikang Peneleh
-tagline:          'since 1978 from Surabaya'
+tagline:          'Since 1978 from Surabaya'
 description:      'The Tasteful Of Bikang Peneleh from Surabaya.'
 url:              http://www.bikangpeneleh.com
 baseurl:          
@@ -58,7 +58,7 @@ copyright:
 parallax:         false
 
 # Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
-google_analytics:  
+google_analytics: UA-73910380-1 
 
 # Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
 theme_color:       7E9576
