@@ -147,3 +147,6 @@ DEPENDENCIES
   github-pages (>= 28)
   html-proofer (>= 1.4.0)
   wdm (~> 0.1.0)
+
+BUNDLED WITH
+   1.14.6

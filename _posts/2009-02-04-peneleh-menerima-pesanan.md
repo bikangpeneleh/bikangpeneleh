@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Peneleh Menerima Pesanan
-quote: "Pesanan bisa diantar. Silahkan hubungi kami melalui nomor dibawah ini dan kami akan berusaha untuk memberikan pelayanan yang nyaman dan memuaskan untuk Anda."
+quote: "Aneka Kue Basah Tradisional, pesanan bisa diantar. Silahkan hubungi kami melalui nomor dibawah ini dan kami akan berusaha untuk memberikan pelayanan yang nyaman dan memuaskan untuk Anda."
 image: 
       url: /media/box_peneleh.jpg
 tags: 
@@ -12,6 +12,8 @@ theme_color: 302F2D
 
 Terima kasih Anda telah menjadi pelanggan berharga Peneleh. 
 Sebagai bentuk komitmen kami untuk menyediakan pelayanan yang terbaik, kami ciptakan pusat pelayanan pelanggan melalui telepon agar Anda dapat menghubungi kami kapan saja.
+
+Aneka Kue Basah Tradisional, pesanan bisa diantar. Silahkan hubungi kami melalui nomor dibawah ini dan kami akan berusaha untuk memberikan pelayanan yang nyaman dan memuaskan untuk Anda.
 
 <figure>
 	<a href="/media/box_peneleh.jpg" data-lightbox="box_peneleh" data-title="Box Peneleh">
