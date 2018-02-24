@@ -14,7 +14,7 @@ disqus:           example
 
 author:
   name:           Peneleh
-  url:            https://google.com/+bikangpeneleh
+  url:            http://www.bikangpeneleh.com
 
 paginate:         5
 
@@ -29,7 +29,7 @@ social:
     desc:         Fork me on github
 
   - icon:         googleplus-alt
-    url:          https://google.com/+bikangpeneleh
+    url:          https://plus.google.com/u/0/107675348558921640068
     desc:         Add me on google+
 
   - icon:         feed
