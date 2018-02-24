@@ -34,7 +34,7 @@ Jl. Peneleh No 32-34.
 <br/>Pusat Grosir Senen Jaya Blok 4 Lantai Dasar A8 No. 10
 <br/>Telp: (021) 2993 9428
 
-<br/>Proyek Senen Blok III. Lantai Dasar Los AKS No 05/06/07
+<br/>Proyek Senen Blok III
 <br/>Telp: (021) 421 4950, (021) 421 0374
 <br/>HP: 0815 878 0829, 0812 85818833, 0818 07078628, 0812 12126828 (Swan)
 <br/>
