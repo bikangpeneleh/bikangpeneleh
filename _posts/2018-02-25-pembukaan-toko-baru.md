@@ -11,7 +11,13 @@ theme_color: 302F2D
 
 ## Pembukaan Toko Baru Blok 4 yang besar dan nyaman
 
-Kunjungilah Toko Baru Kami di Blok 4, sekarang lebih nyaman untuk berbelanja, toko baru kamu dilengkapi dengan banyak fasilitas baru (Lapangan parkir yang luas, air conditioner, dan tempat yang besar)
+Kunjungilah Toko Baru Kami di Blok 4, sekarang lebih nyaman untuk berbelanja :+1
+
+Toko baru kami dilengkapi dengan banyak fasilitas baru
+
+- Lapangan parkir yang luas
+- Air conditioner
+- Tempat yang besar
 
 
 {% include lightbox-image.html group="toko_baru" url="/media/toko_baru_Feb2018/toko_baru_01.jpeg" width="100%" description="Boss Besar" %}
