@@ -3,7 +3,7 @@ layout: post
 title: Daftar Kue (Update Jun 2017)
 quote: "Daftar lengkap berbagai macam kue."
 image:
-      url: /media/FotoKueBaru/dus_peneleh.jpg
+      url: /media/cover01.jpg
 tags:
 - Daftar Kue
 theme_color: 302F2D
