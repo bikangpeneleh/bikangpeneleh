@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Peneleh Menerima Pesanan
-quote: "Aneka Kue Basah Tradisional, pesanan bisa diantar. Silahkan hubungi kami melalui nomor dibawah ini dan kami akan berusaha untuk memberikan pelayanan yang nyaman dan memuaskan untuk Anda."
+quote: "Aneka Kue Basah Tradisional, pesanan bisa diantar. Silahkan hubungi kami melalui nomor dibawah ini dan kami akan berusaha untuk memberikan pelayanan yang nyaman dan memuaskan untuk Anda ..."
 image: 
       url: /media/cover01.jpg
 tags: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Macam macam Kue
-quote: "Foto foto berbagai macam kue."
+quote: "Foto foto berbagai macam kue ..."
 image:
       url: /media/mixed_cakes1.jpg
 video: false
