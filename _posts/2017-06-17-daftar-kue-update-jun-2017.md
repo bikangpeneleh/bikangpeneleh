@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daftar Kue (Update Jun 2017)
+title: Daftar Kue Terbaru (Klik disini)
 quote: "Daftar lengkap berbagai macam kue."
 image:
       url: /media/cover01.jpg
