@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daftar Kue
-quote: "Daftar lengkap berbagai macam kue ..."
+quote: "Bikang Peneleh - Daftar lengkap berbagai macam kue ..."
 image:
       url: /media/kue_bikang_ambon.jpg
 tags:
