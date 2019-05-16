@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daftar Kue
-quote: "Bikang Peneleh - Daftar lengkap berbagai macam kue ..."
+quote: "Bikang Peneleh - Daftar lengkap berbagai macam kue: Bikang Peneleh, Bolu Tape, Brownis, Kroket, Lapis Beras, Lapis Legit, Lapis Surabaya, Lemper, Lumpur, Pastel, Pukis, Risol, Sus ..."
 image:
       url: /media/kue_bikang_ambon.jpg
 tags:

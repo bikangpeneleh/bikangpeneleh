@@ -16,6 +16,8 @@ author:
   name:           Peneleh
   url:            http://www.bikangpeneleh.com
 
+plugins:
+  - jekyll-paginate
 paginate:         5
 
 # Custom vars

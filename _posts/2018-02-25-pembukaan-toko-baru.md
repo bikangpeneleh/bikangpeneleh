@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pembukaan Toko Baru di Blok III
-quote: "Bikang Peneleh - Toko Baru Blok III Semi Basement ..."
+quote: "Bikang Peneleh - Pembukaan Toko Baru Blok III Semi Basement yang besar dan nyaman. Kunjungilah Toko Baru Kami di Blok III Semi Basement sekarang, lebih nyaman untuk berbelanja: Toko baru kami dilengkapi dengan banyak fasilitas baru ..."
 image:
       url: /media/toko_baru_Feb2018/toko_baru_01.jpeg
 tags:

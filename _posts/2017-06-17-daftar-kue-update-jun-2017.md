@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daftar Kue Terbaru (Klik disini)
-quote: "Bikang Peneleh - Daftar lengkap berbagai macam kue ..."
+quote: "Bikang Peneleh - Daftar lengkap berbagai macam kue: Bikang Daun Suji, Bolu Kukus Pelangi, Cake Tape Kismis, Kroket Kentang Ayam, Kue Ku Kacang Ijo, Lapis Beras Daun Suji, Lapis Surabaya, Lemper Ayam, Lontong Bumbu Bali, Lumpur Kelapa Muda, Marmer Cake, Muffin Coklat, Onde Onde Kacang Ijo, Pastel Ayam, Pukis Keju Coklat, Rainbow Pelangi, Risol Rogut Ayam, Sus Butter Cream, Wajik Nangka ..."
 image:
       url: /media/cover01.jpg
 tags:

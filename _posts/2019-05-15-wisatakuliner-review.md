@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review oleh WisataKuliner
-quote: "Bikang Peneleh - WisataKuliner Review Bikang Peneleh Surabaya ..."
+quote: "Bikang Peneleh - WisataKuliner Review Bikang Peneleh Surabaya: Di dalam dunia kuliner, tak hanya berbagai makanan jenis berat yang bisa kita nikmati. Tetapi jenis makanan kecil berupa jajanan kue tradisional pun juga memiliki tempat tersendiri di dalam dunia kuliner. Salah satunya yaitu kue bikang yang terkenal di Peneleh, Surabaya. Bisa dibilang, kue bikang ini merupakan kue bikang terlama dan masih menjadi favorite bagi sebagian besar warga Surabaya maupun mereka yang berasal dari luar kota. ..."
 image:
       url: /media/misc/Kue-Bikang-Peneleh-696x418.jpg
 tags:
