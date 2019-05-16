@@ -29,6 +29,7 @@ theme_color: 302F2D
 | 13 | [Sus](/media/kue_sus.jpg){:data-lightbox="daftar_kue_list"}{:data-title="Sus"}
 |--
 
+<br><br>
 
 {% include lightbox-image.html group="daftar_kue" url="/media/kue_bikang_ambon.jpg" width="100%" description="Bikang Ambon" %}
 
