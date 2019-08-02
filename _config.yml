@@ -14,7 +14,7 @@ disqus:           example
 
 author:
   name:           Peneleh
-  url:            http://www.bikangpeneleh.com
+  url:            https://www.bikangpeneleh.com
 
 plugins:
   - jekyll-paginate
@@ -35,7 +35,7 @@ social:
     desc:         Add me on google+
 
   - icon:         feed
-    url:          http://www.bikangpeneleh.com/atom.xml
+    url:          https://www.bikangpeneleh.com/atom.xml
     desc:         Subscribe to my feed
 
 menu:
@@ -53,7 +53,7 @@ menu:
 
 copyright:
   author:         Bikang Peneleh
-  url:            http://www.bikangpeneleh.com
+  url:            https://www.bikangpeneleh.com
   type_title:     All Rights Reserved
   type_url:       
 
