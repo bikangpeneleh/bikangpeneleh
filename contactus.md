@@ -15,7 +15,7 @@ permalink: contactus/
 
 <br/>Proyek Senen Blok III
 <br/>Telp: (021) 421 4950, (021) 421 0374
-<br/>HP: 0815 878 0829, 0812 85818833, 0818 07078628, 0812 12126828 (Swan)
+<br/>HP: +628158780829, +6281241781373, +6281212126828
 <br/>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.664080066394!2d106.84088471476886!3d-6.175705695528928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x192a0c035f8a9d86!2sBikang+Peneleh+Senen!5e0!3m2!1sen!2s!4v1504519029275" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
