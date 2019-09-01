@@ -23,6 +23,11 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/pembukaan-toko-baru">Team</a>
           </li>
+          {% for social in site.social %}
+          <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="{{ social.url }}" target="_blank" title="{{ social.desc }}"><span class="genericon genericon-{{ social.icon }}"></span></a>
+          </li>
+          {% endfor %}
         </ul>
       </div>
     </div>

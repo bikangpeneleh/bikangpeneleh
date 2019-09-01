@@ -26,17 +26,21 @@ cover:            /assets/images/banner02.jpg
 
 social:
 
-  - icon:         github
-    url:          https://github.com/bikangpeneleh
-    desc:         Fork me on github
+  - icon:         instagram
+    url:          https://www.instagram.com/bikangpeneleh/
+    desc:         Follow and Like me on Instagram
 
-  - icon:         googleplus-alt
-    url:          https://plus.google.com/u/0/107675348558921640068
-    desc:         Add me on google+
+  - icon:         facebook
+    url:          http://www.facebook.com/bikangpenelehcom/
+    desc:         Follow me on FaceBook
 
-  - icon:         feed
-    url:          https://www.bikangpeneleh.com/atom.xml
-    desc:         Subscribe to my feed
+  - icon:         search
+    url:          https://g.page/bikangpeneleh/
+    desc:         View us on Google Search and Maps
+
+  - icon:         comment
+    url:          https://g.page/bikangpeneleh/review/
+    desc:         Post a review to our profile
 
 menu:
   - title:        Home

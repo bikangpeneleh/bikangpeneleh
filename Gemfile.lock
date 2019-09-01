@@ -252,7 +252,6 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     unicode-display_width (1.6.0)
-    wdm (0.1.1)
     yell (2.1.0)
 
 PLATFORMS
@@ -262,7 +261,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages (>= 28)
   html-proofer (>= 1.4.0)
-  wdm (~> 0.1.0)
 
 BUNDLED WITH
    2.0.1
