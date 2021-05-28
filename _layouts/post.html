@@ -30,7 +30,7 @@ article: true
 </header>
 <div id="middle">
 	<div id="article">
-		{{ content }}
+	{% include linebreaks.html input=content %}
 	</div>
 	{% if site.commentsystem %}{% if page.comments != false %}
 	<div id="comments">
